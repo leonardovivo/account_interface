@@ -229,3 +229,5 @@ class _RegisterScreenState extends State<RegisterScreen> {
     );
   }
 }
+
+// Tela de Registro
